@@ -1,0 +1,22 @@
+Month,Day,Subject,Month as Int,Day Zero-Padded,Start Date,End Date,All Day
+Sept,4,Labor Day. University Closed,09,04,09/04/2023,09/04/2023,TRUE
+Sept,5,First Day of Classes,09,05,09/05/2023,09/05/2023,TRUE
+Sept,11,Last Day to Add/Drop a Class,09,11,09/11/2023,09/11/2023,TRUE
+Sept,11,"Last Day for 100% Refund, Full or Partial Withdrawal",09,11,09/11/2023,09/11/2023,TRUE
+Sept,12,W Grades Posted for Course Withdrawals,09,12,09/12/2023,09/12/2023,TRUE
+Sept,18,"Last Day for 90% Refund, Full or Partial Withdrawal - No Refund for Partial 
+Withdrawal after this date",09,18,09/18/2023,09/18/2023,TRUE
+Oct,2,"Last Day for 50% Refund, Full Withdrawal",10,02,10/02/2023,10/02/2023,TRUE
+Oct,23,"Last Day for 25% Refund, Full Withdrawal",10,23,10/23/2023,10/23/2023,TRUE
+Nov,13,Last Day to Withdraw from Classes,11,13,11/13/2023,11/13/2023,TRUE
+Nov,21,Thursday Classes Meet,11,21,11/21/2023,11/21/2023,TRUE
+Nov,22,Friday Classes Meet,11,22,11/22/2023,11/22/2023,TRUE
+Nov,23,Thanksgiving Recess Begins. No Classes,11,23,11/23/2023,11/23/2023,TRUE
+Nov,26,Thanksgiving Recess Ends,11,26,11/26/2023,11/26/2023,TRUE
+Dec,13,Last Day of Classes,12,13,12/13/2023,12/13/2023,TRUE
+Dec,14,Reading Day 1,12,14,12/14/2023,12/14/2023,TRUE
+Dec,15,Reading Day 2,12,15,12/15/2023,12/15/2023,TRUE
+Dec,16,Saturday Classes Meet,12,16,12/16/2023,12/16/2023,TRUE
+Dec,17,Final Exams Begin,12,17,12/17/2023,12/17/2023,TRUE
+Dec,23,Final Exams End,12,23,12/23/2023,12/23/2023,TRUE
+Dec,25,Final Grades Due,12,25,12/25/2023,12/25/2023,TRUE
