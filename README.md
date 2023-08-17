@@ -3,7 +3,7 @@ This is an academic calendar converter that can be added to your Google Calendar
 
 ## :scroll: Table of Contents
 
-
+- [eyes-spies](https://github.com/gorbe2002/eyes-spies#eyes-spies)
 ## :question: How do I implement this?
 
 
