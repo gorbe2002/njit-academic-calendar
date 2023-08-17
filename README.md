@@ -3,8 +3,9 @@ This is an academic calendar converter that can be added to your Google Calendar
 
 ## :scroll: Table of Contents
 - [Introduction](https://github.com/gorbe2002/njit-academic-calendar-converter#njit-academic-calendar-converter)
+- [:question: How do I use this?](https://github.com/gorbe2002/njit-academic-calendar-converter/edit/main/README.md#question-how-do-i-use-this)
 
-## :question: How do I implement this?
-
+## :question: How do I use this?
+The simpliest way to use this would be to download the .csv file from the documents above corresponding to which calendar you want, open your Google Calendar, click on the plus sign next to "Other calendars" on the left side, click "Import", select the downloaded .csv file to add to your calendar, and then click on "Import."
 
 Last Updated: August 2023
